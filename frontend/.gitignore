@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+backend/venv/
+backend/.venv/
+__pycache__/
+*.py[cod]
+
+# Ignore node modules and build
+node_modules/
+dist/
+build/
+
+# Ignore environment files
+*.env
+
+# Ignore system files
+.DS_Store
+.vscode/
+*.log
